@@ -5,6 +5,11 @@ Menschen, die sich wenig mit Computern und Software auskennen,
 möglichst leicht verständlich sein und nur wesentliche Aspekte
 umfassen.
 
+# PDF herunterladen
+
+- [PDF, A5](https://raw.githubusercontent.com/sven765/freie-software-einfuehrung/main/freie-software-einfuehrung.pdf)
+- [PDF für doppelseitigen Druck auf A4 und Heften als A5](https://raw.githubusercontent.com/sven765/freie-software-einfuehrung/main/freie-software-einfuehrung-a4-druck.pdf)
+
 # Nächste Schritte
 
 - Weiteres Feedback einholen und überarbeiten
