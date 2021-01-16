@@ -125,7 +125,7 @@ werden. Das kommt häufig vor. Hier ein paar Beispiele:
 - Firmen sammeln Informationen über die Nutzer\*innen, z. B. ihre
   Interessen oder ihren Standort.
 - Nutzer\*innen werden daran gehindert, bestimmte Dinge zu tun,
-  z. B. DVDs auszulesen.
+  z\. B. DVDs auszulesen.
 - Nutzer\*innen werden daran gehindert, anderen Menschen eine Kopie
   der Software zu geben und ihnen dadurch zu helfen.
 - Nutzer\*innen werden daran gehindert, die Software so zu
