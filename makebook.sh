@@ -1,4 +1,4 @@
 #!/bin/bash
 
-pdfbook freie-software-einfuehrung.pdf
+pdfbook --suffix "auf-a4-drucken" freie-software-einfuehrung.pdf
 
