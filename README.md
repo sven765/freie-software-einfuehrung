@@ -5,8 +5,7 @@ Menschen, die sich wenig mit Computern und Software auskennen,
 möglichst leicht verständlich sein und nur wesentliche Aspekte
 umfassen.
 
-# PDF herunterladen
-
+- [Online lesen](https://github.com/sven765/freie-software-einfuehrung/blob/main/freie-software-einfuehrung.md)
 - [PDF, A5](https://raw.githubusercontent.com/sven765/freie-software-einfuehrung/main/freie-software-einfuehrung.pdf)
 - [PDF für doppelseitigen Druck auf A4 und Heften als A5](https://raw.githubusercontent.com/sven765/freie-software-einfuehrung/main/freie-software-einfuehrung-a4-druck.pdf)
 
@@ -14,7 +13,6 @@ umfassen.
 
 - Weiteres Feedback einholen und überarbeiten
 - mit Bildern illustrieren
-- in verschiedenen Formaten verfügbar machen (eigene Domain)
 
 Ich suche jemanden, die*der diese Einführung graphisch illustriert,
 d.h. zu jedem Abschnitt ein Bild zeichnet und diese Bilder als Public
