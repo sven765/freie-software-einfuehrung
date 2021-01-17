@@ -147,7 +147,7 @@ Selbst wenn bestimmte Softwarefirmen all das nicht tun: Sie sollten
 gar nicht die Möglichkeit dazu haben. Solange Software proprietär ist,
 können wir nicht sicher sein, was sie auf unseren Geräten
 tut. Vielleicht vertrauen wir einer bestimmten Firma und verlassen uns
-auf ihre Software -- aber was, wenn diese Firma verkauft wird?
+auf ihre Software – aber was, wenn diese Firma verkauft wird?
 
 In der Regel bauen Firmen schädliche Funktionen nicht aus böser
 Absicht in Software ein, sondern weil sie erwarten, dadurch mehr Geld
@@ -193,8 +193,8 @@ Fedora oder PureOS. Einige Distributionen enthalten nur freie
 Software, andere auch proprietäre Software.
 
 Das Angebot an freier Software ist so groß und die Möglichkeiten, sie
-anzupassen, sind so vielfältig, dass die Anwendung -- insbesondere zu
-Beginn -- anstrengend sein kann: Welche Distribution möchte ich
+anzupassen, sind so vielfältig, dass die Anwendung – insbesondere zu
+Beginn – anstrengend sein kann: Welche Distribution möchte ich
 installieren? Welche graphische Oberfläche gefällt mir am besten?
 Welchen Browser, Dateimanager und Bildbetrachter wähle ich? Unzählige
 **Entscheidungen** sind zu treffen und das ist nicht immer
@@ -209,7 +209,7 @@ Anwendungen einfach super sind.
 # Lizenzen garantieren Freiheiten (oder Unfreiheiten)
 
 Nach den Gesetzen (dem Urheberrecht) in vielen Ländern gehören Werke
-den Personen, die sie geschaffen haben -- das gilt auch für
+den Personen, die sie geschaffen haben – das gilt auch für
 Software. Wenn wir proprietäre Software weitergeben oder verändern
 würden, können wir gezwungen werden, damit aufzuhören oder sogar
 bestraft werden.
@@ -257,9 +257,9 @@ unabhängig und vertraulich arbeiten können.
 
 Die Aufgabe von **Schulen und Hochschulen** ist, Kindern und
 Erwachsenen beizubringen, zusammenzuarbeiten, und sie dabei zu
-unterstützen, selbstständig Aufgaben erledigen zu können -- unabhängig
+unterstützen, selbstständig Aufgaben erledigen zu können – unabhängig
 von bestimmten Produkten bestimmter Firmen. An Schulen und Hochschulen
-soll Wissen miteinander geteilt werden -- auch das Wissen darüber, wie
+soll Wissen miteinander geteilt werden – auch das Wissen darüber, wie
 Software arbeitet. All das ist nur mit freier Software zu erreichen.
 
 In **Forschung und Wissenschaft** ist entscheidend, dass
@@ -325,7 +325,7 @@ Fähigkeiten, andere kann fast jede\*r gehen. Du kannst
 - für freie Software **Geld bezahlen oder spenden** an Menschen oder
   Organisationen, die freie Software programmieren oder zur Verfügung
   stellen, und
-- mit anderen **Kampagnen oder Veranstaltungen** zum Thema freie
+- mit Anderen **Kampagnen oder Veranstaltungen** zum Thema freie
   Software organisieren.
 
 Anfangs kann es schwierig sein, freie Software für eine bestimmte
@@ -375,7 +375,7 @@ Nutzer\*innen. Darum haben Menschen alternative **soziale Netzwerke**
 geschaffen, die den Nutzer\*innen mehr Kontrolle über ihre Daten
 bieten, die verteilt auf Servern verschiedener Menschen oder
 Organisationen laufen und für die freie Software zur Verfügung steht
--- sowohl für die Nutzer\*innen als auch auf dem Server. Ein paar
+– sowohl für die Nutzer\*innen als auch auf dem Server. Ein paar
 bekanntere Beispiele sind die Microblogging-Software
 [Mastodon](https://joinmastodon.org), die Videoplattform
 [Peertube](https://joinpeertube.org/de/) und das
@@ -400,7 +400,7 @@ bestimmten Orten oder in bestimmten Situationen eingeschränkt. Darum
 setzen sich immer wieder Menschen für Freiheit ein.
 
 Computer spielen heute eine riesige Rolle in den meisten
-Lebensbereichen und Software hat großen Einfluss auf unser Leben --
+Lebensbereichen und Software hat großen Einfluss auf unser Leben –
 wenn sie auf unseren eigenen Geräten läuft, wenn sie auf den Geräten
 unserer Schule oder unserer Ärzt\*innen oder den Maschinen unserer
 Landwirt\*innen läuft. Wir sollten als Nutzer\*innen und Bürger\*innen
@@ -410,8 +410,8 @@ proprietärer Software und ihren Hersteller\*innen abhängig zu sein.
 
 # Dieses Dokument ist frei
 
-Ich, der Autor, habe dieses Werk in die **Gemeinfreiheit** --
-auch Public Domain genannt -- entlassen, indem ich weltweit auf alle
+Ich, der Autor, habe dieses Werk in die **Gemeinfreiheit** –
+auch Public Domain genannt – entlassen, indem ich weltweit auf alle
 urheberrechtlichen und verwandten Schutzrechte verzichtet habe, soweit
 das gesetzlich möglich ist.
 
@@ -420,7 +420,7 @@ aufführen, auch zu kommerziellen Zwecken, ohne um weitere Erlaubnis
 bitten zu müssen.
 
 Das Werk „Dein Gerät, Deine Freiheit, Deine Wahl“ ist gekennzeichnet
-mit CC0 1.0 Universell (CCO 1.0). Um eine Kopie dieser Lizenz zu
+mit CC0 1.0 Universell (CC0 1.0). Um eine Kopie dieser Lizenz zu
 sehen, besuche https://creativecommons.org/publicdomain/zero/1.0
 
 Ich **danke** der Free Software Foundation für ihre Arbeit. Fast
