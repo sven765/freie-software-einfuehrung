@@ -13,6 +13,8 @@ umfassen.
 
 - Weiteres Feedback einholen und überarbeiten
 - mit Bildern illustrieren
+- Drucken lassen
+- bekannter machen
 
 Ich suche jemanden, die*der diese Einführung graphisch illustriert,
 d.h. zu jedem Abschnitt ein Bild zeichnet und diese Bilder als Public
