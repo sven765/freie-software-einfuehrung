@@ -2,7 +2,7 @@
 title: "Dein Gerät, Deine Freiheit, Deine Wahl"
 subtitle: "Wie Du mit freier Software zu einer freien Gesellschaft beitragen kannst"
 author: "Sven Hartenstein"
-date: Version 2021-01-16
+date: Version 2021-01-21
 lang: de-De
 ---
 
