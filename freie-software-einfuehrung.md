@@ -170,7 +170,7 @@ Hier ein paar bekannte Beispiele für freie Software:
 - der Internetbrowser Firefox und das E-Mail-Programm Thunderbird
 - der Medienspieler VLC
 - die Bildbearbeitungssoftware GIMP und die Zeichensoftware Inkscape
-- die Messenger Signal, Telegram und Element
+- die Messenger Signal und Element
 
 [^2]: Der Großteil Android, das vor allem auf Smartphones und Tablets
 eingesetzt wird, ist freie Software. Auf den meisten Geräten wird von
