@@ -2,7 +2,7 @@
 title: "Dein Gerät, Deine Freiheit, Deine Wahl"
 subtitle: "Wie Du mit freier Software zu einer freien Gesellschaft beitragen kannst"
 author: "Sven Hartenstein"
-date: Version 2021-01-21
+date: Version 2021-01-30
 lang: de-De
 ---
 
@@ -11,7 +11,7 @@ lang: de-De
 Immer wieder sind auf unserem Planeten Freiheiten von Menschen bedroht
 und immer wieder wird für sie gestritten: die Freiheit, die eigene
 Meinung zu sagen, die Freiheit, Kritisches zu schreiben und zu
-veröffentlichen, die Freiheit, sich so zu kleiden wie man möchte, die
+veröffentlichen, die Freiheit, sich so zu kleiden, wie man möchte, die
 Freiheit, bei politischen Wahlen die eigenen Interessen zu vertreten,
 die Freiheit von Wissenschaftler*innen, Ergebnisse ihrer Forschung
 unabhängig zu veröffentlichen. Das sind nur einige Beispiele.
@@ -25,7 +25,7 @@ wie wir möchten? Können wir kontrollieren, dass Geräte das tun, was
 wir beabsichtigen? Können wir selbstständig verbessern, wie Computer
 für uns Aufgaben erledigen? Du erfährst, was freie Software ist, wie
 sie zu unserer Freiheit beiträgt und wie Nutzer\*innen von Computern
-gemeinsam für ihre Freiheit kämpfen.
+als Gemeinschaft für ihre Freiheit kämpfen.
 
 
 # Ein paar Begriffe erklärt
@@ -34,7 +34,9 @@ Das Wort **Software** bezeichnet Programme, die auf Computern laufen
 und von diesen ausgeführt werden. Zu Software gehören das
 Betriebssystem (z. B. GNU/Linux, Android oder Microsoft Windows) und
 Anwendungen (z. B. Office, Internetbrowser wie Firefox oder
-Medienspieler wie VLC).
+Medienspieler wie VLC). **Hardware** hingegen bezeichnet Geräte oder
+Teile von Geräten, die von Software gesteuert werden, z.\,B.\
+Computer, Laufwerke, Drucker oder Graphikkarten.
 
 Software wird **programmiert**. Das heißt, dass ein
 **Quellcode**, ein für Menschen lesbarer Text, in einer
@@ -49,8 +51,9 @@ Smartphones und Server[^1]. Aber auch in unzähligen Maschinen wie
 Autos, medizinischen Geräten, Drohnen oder Geldautomaten stecken
 Computer, auf denen Software läuft.
 
-[^1]: Ein Server ist ein Computer, von dem andere Computer
-Informationen (z. B. Websites) oder andere Daten abrufen können.
+[^1]: Ein Server ist ein Computer, der Daten anderen Computern
+    bereitstellt und/oder von ihnen annimmt (z. B. Websites, E-Mails
+    oder Chatnachrichten).
 
 # Freie Software: vier Freiheiten
 
@@ -70,7 +73,7 @@ freie Software, wenn sie vier bestimmte Freiheiten garantiert:
 Die meisten Menschen, die Computer nutzen, programmieren nicht
 selbst. Sie können den Quelltext nicht verstehen und nicht
 verändern. Darum sind zwei weitere Freiheiten notwendig, damit die
-Nutzer\*innen gemeinsam (kollektiv) frei sind, Software nach ihren
+Nutzer\*innen gemeinschaftlich frei sind, Software nach ihren
 Bedürfnissen weiterzuentwickeln.
 
 3. Die Software darf **weiterverbreitet** werden. Nutzer\*innen dürfen
@@ -89,17 +92,16 @@ Software, die diese vier Freiheiten nicht gewährt, nennen wir
 befindlich“.
 
 
-# Vorteile für Nutzer\*innen
+# Weitere Vorteile für Nutzer\*innen
 
-Wenn Nutzer\*innen gemeinsam Software nach ihren Wünschen entwickeln
-können, haben sie mehr **Kontrolle** darüber und können sie
-**selbst entscheiden**, was die Software auf ihren Geräten
-tut. Die Software kann dann so programmiert werden, dass sie den
-**Bedürfnissen der Nutzer\*innen** dient anstatt den Interessen
-von Firmen. Außerdem führt freie Software dazu, dass Nutzer\*innen sich
-stärker gegenseitig **unterstützen und zusammenarbeiten**
-(kooperieren) können, weil sie die Software miteinander teilen und
-füreinander anpassen können.
+Wenn Nutzer\*innen gemeinschaftlich Software nach ihren Wünschen
+entwickeln können, dann können sie **selbst entscheiden** und
+**kontrollieren**, was die Software auf ihren Geräten tut. Die
+Software kann dann so programmiert werden, dass sie den **Bedürfnissen
+der Nutzer\*innen** dient anstatt den Interessen von Firmen. Außerdem
+führt freie Software dazu, dass Nutzer\*innen sich stärker gegenseitig
+**unterstützen und zusammenarbeiten** (kooperieren) können, weil sie
+die Software miteinander teilen und füreinander anpassen können.
 
 Bei proprietärer Software ist das häufig nicht so: Die Firma, die
 Programmierer\*innen für ihre Arbeit bezahlt, entscheidet, was die
@@ -121,9 +123,8 @@ haben, kann es passieren, dass Nutzer\*innen und Entwickler\*innen nicht
 zusammenarbeiten, sondern Interessen der Nutzer\*innen verletzt
 werden. Das kommt häufig vor. Hier ein paar Beispiele:
 
-- Nutzer\*innen werden ausgespäht.
-- Firmen sammeln Informationen über die Nutzer\*innen, z. B. ihre
-  Interessen oder ihren Standort.
+- Firmen sammeln Informationen über Nutzer*innen, obwohl diese das
+  nicht möchten, z. B. ihre Interessen oder ihren Standort.
 - Nutzer\*innen werden daran gehindert, bestimmte Dinge zu tun,
   z\. B. DVDs auszulesen.
 - Nutzer\*innen werden daran gehindert, anderen Menschen eine Kopie
@@ -160,23 +161,24 @@ Durch sehr viel Arbeit von Programmierer\*innen, die freie Software
 geschrieben haben, können Nutzer\*innen heute die meisten Aufgaben mit
 freier Software erledigen: Dokumente schreiben, im Internet surfen,
 Musik komponieren, Server betreiben, Berechnungen durchführen, Spiele
-spielen und vieles, vieles mehr. Es gibt tausende Programme, die den
+spielen und vieles, vieles mehr. Es gibt *tausende Programme*, die den
 Nutzer\*innen die vier Freiheiten garantieren.
 
-Hier ein paar bekannte Beispiele für freie Software:
+Bekannte Beispiele für freie Software sind
 
-- die Betriebssysteme GNU/Linux und Android[^2]
-- die Office-Pakete LibreOffice und OpenOffice
-- der Internetbrowser Firefox und das E-Mail-Programm Thunderbird
-- der Medienspieler VLC
+- die Betriebssysteme GNU/Linux und Android[^2],
+- die Office-Pakete LibreOffice und OpenOffice,
+- der Internetbrowser Firefox und das E-Mail-Programm Thunderbird,
+- der Medienspieler VLC,
 - die Bildbearbeitungssoftware GIMP und die Zeichensoftware Inkscape
-- die Messenger Signal und Element
+  sowie
+- die Messenger Signal und Element.
 
 [^2]: Der Großteil Android, das vor allem auf Smartphones und Tablets
-eingesetzt wird, ist freie Software. Auf den meisten Geräten wird von
-den Herstellern aber auch proprietäre Software installiert. Viele
-bekannte Apps (z. B. von Google) sind proprietär. F-Droid ist ein
-App-Store für freie Software.
+    eingesetzt wird, ist freie Software. Auf den meisten Geräten wird
+    von den Herstellern aber auch proprietäre Software
+    installiert. Viele bekannte Apps (z. B. von Google) sind
+    proprietär. F-Droid ist ein App-Store für freie Software.
 
 Neben diesen Beispielen, die viele Menschen bereits kennen, gibt es
 hochwertige freie Software auch für spezifische Aufgaben, wie zum
@@ -193,16 +195,22 @@ Fedora oder PureOS. Einige Distributionen enthalten nur freie
 Software, andere auch proprietäre Software.
 
 Das Angebot an freier Software ist so groß und die Möglichkeiten, sie
-anzupassen, sind so vielfältig, dass die Anwendung – insbesondere zu
+anzupassen, sind so vielfältig, dass die Verwendung – insbesondere zu
 Beginn – anstrengend sein kann: Welche Distribution möchte ich
 installieren? Welche graphische Oberfläche gefällt mir am besten?
 Welchen Browser, Dateimanager und Bildbetrachter wähle ich? Unzählige
-**Entscheidungen** sind zu treffen und das ist nicht immer
-einfach. Der Austausch mit Freund\*innen und Empfehlungen im Internet
-können bei der „Qual der Wahl“ helfen. Und: Vielen Menschen macht
-die Beschäftigung mit freier Software sogar großen **Spaß**, weil
-es viel zu entdecken und auszutauschen gibt, und weil viele freie
-Anwendungen einfach super sind.
+**Entscheidungen** sind zu treffen und das ist nicht immer einfach.
+Schwierig kann auch die **Umgewöhnung** an eine bestimmte freie
+Anwendung oder an ein freies Betriebssystem sein, wenn man mit einer
+proprietären Software bereits vertraut ist.
+
+Der Austausch mit Freund\*innen und Empfehlungen im Internet können
+bei der „Qual der Wahl“ und beim Umstieg helfen. Wenn beides geschafft
+ist, sind viele freie Anwendungen genauso einfach zu verwenden wie
+proprietäre. Und: Vielen Menschen macht die Beschäftigung mit freier
+Software sogar großen **Spaß**, weil es viel zu entdecken und
+auszutauschen gibt, und weil viele freie Anwendungen einfach super
+sind.
 
 
 
@@ -229,22 +237,22 @@ Häufig wird Software, deren Quelltext verfügbar ist, „**Open
 Source**“-Software genannt. Meist geht es dabei um die gleiche
 Software, die andere „**freie Software**“ nennen.
 
-Ist es egal, welchen Begriff wir verwenden? Nicht ganz! Die Begriffen
-stellen verschiedene **Ziele** in den Vordergrund. „Open Source“ hebt
-vor allem die Art der Entwicklung von Software hervor, die zu
-**leistungsstarker Software** beitragen kann: offener
-Quellcode. „Freie Software“ betont hingegen das Ziel, dass Software
-uns Menschen **Freiheiten garantieren** soll. Darum ist es hilfreich,
-von „freier Software“ zu sprechen: Damit wird deutlich, dass wir einen
-ethischen oder politischen Anspruch haben und die Menschen, die uns
-zuhören, verstehen leichter, worum es uns geht.
+Ist es egal, welchen Begriff wir verwenden? Nicht ganz! Die Begriffe
+stellen verschiedene **Ziele** in den Vordergrund. Die Bezeichnung
+„Open Source“ hebt vor allem die Art der Entwicklung von Software
+hervor, die zu **leistungsfähiger Software** beitragen kann: Die
+Entwickler*innen tauschen Quellcode aus. Die Bezeichnung „Freie
+Software“ betont hingegen das Ziel, dass Software uns Menschen
+**Freiheiten garantieren** soll. Darum ist es hilfreich, von „freier
+Software“ zu sprechen: Damit wird deutlich, dass wir einen ethischen
+oder politischen Anspruch haben und die Menschen, die uns zuhören,
+verstehen leichter, worum es uns geht.
 
 Übrigens: Der Begriff „**Freeware**“ meint etwas ganz anderes als
-„freie Software“, auch wenn er so ähnlich klingt. „Freeware“ meint
-kostenlose proprietäre Software, die nicht die vier Freiheiten
-gewährt. Das englische Wort „free“ bedeutet sowohl „frei“ als auch
-„kostenlos“. Freeware ist kostenlos; freie Software wird auch häufig
-kostenlos angeboten, garantiert aber die vier Freiheiten.
+„freie Software“, auch wenn er ähnlich klingt, nämlich kostenlose
+proprietäre Software, die nicht die vier Freiheiten gewährt. (Das
+englische Wort „free“ bedeutet nicht nur „frei“, sondern auch
+„kostenlos“.)
 
 
 # Wo freie Software besonders wichtig ist
@@ -297,10 +305,11 @@ Fähigkeiten, andere kann fast jede\*r gehen. Du kannst
 - freie Software **verwenden** und damit Deine eigene Freiheit
   sicherstellen,
 - **andere unterstützen**, freie Software zu nutzen oder zu
-  installieren, und aufhören, anderen Menschen Software zu empfehlen,
-  die proprietär ist,
-- **andere bitten**, Dich beim Installieren oder Nutzen
-  freier Software zu unterstützen,
+  installieren,
+- **andere bitten**, Dich beim Installieren oder Nutzen freier
+  Software zu unterstützen,
+- **anderen erzählen**, welche Vorteile freie Software hat, und
+  aufhören, Software zu empfehlen, die proprietär ist,
 - Dich selbst und andere **informieren**, um bei der Auswahl von
   Software gute Entscheidungen treffen zu können,
 - selbst freie Software **programmieren** oder als Programmierer\*in
@@ -352,11 +361,11 @@ Freiheit hängt allerdings von mehr als der eingesetzten Software
 ab. In diesem Abschnitt wird darum kurz auf verwandte Themen
 hingewiesen.
 
-Auch **Hardware** sollte frei sein. Das bedeutet, dass die
-Baupläne für Geräte und Einzelteile (z. B. Chips, Grafikkarten oder
-Drucker) frei sein sollten. Wenn Hersteller von Geräten oder
-Einzelteilen offenlegen, wie ihre Produkte von Software gesteuert
-werden können, ist es viel einfacher, freie Software für die Geräte zu
+Auch **Hardware** sollte frei sein. Das bedeutet, dass die Baupläne
+für Geräte und Einzelteile (z. B. Chips, Graphikkarten oder Drucker)
+frei sein sollten. Wenn Hersteller von Geräten oder Einzelteilen
+offenlegen, wie ihre Produkte von Software gesteuert werden können,
+ist es viel einfacher, freie Software für die Geräte zu
 programmieren. Außerdem ist dann nachvollziehbar, was die Geräte tun
 und ob sie sicher sind.
 
@@ -386,7 +395,8 @@ sondern auch für verschiedenste **andere Werke**, die dem
 Urheberrecht unterliegen, z. B. Bücher, Musik,
 Graphiken.[^3]
 
-[^3]: Informationen darüber findest Du unter https://creativecommons.org .
+[^3]: Informationen darüber findest Du unter
+    https://creativecommons.org .
 
 
 # Schluss
@@ -394,18 +404,19 @@ Graphiken.[^3]
 Freie Meinungsäußerung, Bewegungsfreiheit, Versammlungsfreiheit, freie
 Presse, freie Wahlen und einige Freiheiten mehr gelten heute in vielen
 Ländern als Menschenrechte, die jedem Menschen zustehen. Die Erfahrung
-zeigt, dass der **Kampf um Freiheiten** viel Zeit und Energie
+zeigt, dass der **Kampf für Freiheiten** viel Zeit und Energie
 verlangt: Immer wieder werden Freiheiten für bestimmte Personen, an
 bestimmten Orten oder in bestimmten Situationen eingeschränkt. Darum
-setzen sich immer wieder Menschen für Freiheit ein.
+setzen sich immer wieder Menschen für Freiheiten ein.
 
 Computer spielen heute eine riesige Rolle in den meisten
 Lebensbereichen und Software hat großen Einfluss auf unser Leben –
 wenn sie auf unseren eigenen Geräten läuft, wenn sie auf den Geräten
 unserer Schule oder unserer Ärzt\*innen oder den Maschinen unserer
 Landwirt\*innen läuft. Wir sollten als Nutzer\*innen und Bürger\*innen
-darauf achten, dass wir Software gemeinsam kontrollieren, statt von
-proprietärer Software und ihren Hersteller\*innen abhängig zu sein.
+darauf achten, dass wir Software gemeinschaftlich kontrollieren, statt
+von proprietärer Software und ihren Hersteller\*innen abhängig zu
+sein.
 
 
 # Dieses Dokument ist frei
