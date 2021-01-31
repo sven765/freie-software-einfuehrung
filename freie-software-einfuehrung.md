@@ -404,10 +404,11 @@ Graphiken.[^3]
 Freie Meinungsäußerung, Bewegungsfreiheit, Versammlungsfreiheit, freie
 Presse, freie Wahlen und einige Freiheiten mehr gelten heute in vielen
 Ländern als Menschenrechte, die jedem Menschen zustehen. Die Erfahrung
-zeigt, dass der **Kampf für Freiheiten** viel Zeit und Energie
-verlangt: Immer wieder werden Freiheiten für bestimmte Personen, an
-bestimmten Orten oder in bestimmten Situationen eingeschränkt. Darum
-setzen sich immer wieder Menschen für Freiheiten ein.
+zeigt, dass der **politische Kampf für Freiheiten** viel Zeit und
+Energie verlangt: Immer wieder werden Freiheiten für bestimmte
+Personen, an bestimmten Orten oder in bestimmten Situationen
+eingeschränkt. Darum setzen sich immer wieder Menschen für Freiheiten
+ein.
 
 Computer spielen heute eine riesige Rolle in den meisten
 Lebensbereichen und Software hat großen Einfluss auf unser Leben –
